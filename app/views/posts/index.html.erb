@@ -1,7 +1,8 @@
+<div class="container">
 <h1>All posts</h1>
 
-<table>
-  <tr>  
+<table class="table">
+  <tr class="thead-dark">  
     <th>Title</th>
     <th>Text</th>
     <th>Author</th>
@@ -17,6 +18,7 @@
 
 <br/><br/>
 
-<%=link_to "New Post", new_post_path%>
+<%=link_to "New Post",  new_post_path, :class=>"btn btn-secondary"%>
 
 <%= index_session %>
+</div>

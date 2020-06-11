@@ -10,7 +10,7 @@
 ![screenshot](images/new.png)
 
 
-![screenshot](images/posts.png)
+![screenshot](images/postss.png)
 
 
 ![screenshot](images/post2.png)
