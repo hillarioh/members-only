@@ -4,7 +4,7 @@
 - User
 - Post
 ## Images
-![screenshot](images/signup.png)
+![screenshot](images/sgnup.png)
 
 
 ![screenshot](images/new.png)
