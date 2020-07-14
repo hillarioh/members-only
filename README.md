@@ -1,5 +1,5 @@
 # Members only - Rails
-> This project entailed use of devise gem to create a simple authorization app.  Only Signed in users can see authors of  the posts.
+> This project involves use of devise gem to create a simple authorization app.  Only Signed in users can see authors of  the posts.
 ## Models created
 - User
 - Post
